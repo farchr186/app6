@@ -1,0 +1,51 @@
+C:\Users\othon\source\repos\App6\App6\App6\bin\Debug\netstandard2.0\App6.deps.json
+C:\Users\othon\source\repos\App6\App6\App6\bin\Debug\netstandard2.0\App6.dll
+C:\Users\othon\source\repos\App6\App6\App6\bin\Debug\netstandard2.0\ref\App6.dll
+C:\Users\othon\source\repos\App6\App6\App6\bin\Debug\netstandard2.0\App6.pdb
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.csproj.AssemblyReference.cache
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\Views\PaginaInicio.xaml.g.cs
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\Views\PaginaPerfil.xaml.g.cs
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfoInputs.cache
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfo.cs
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.csproj.CoreCompileInputs.cache
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.dll
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\ref\App6.dll
+C:\Users\othon\source\repos\App6\App6\App6\obj\Debug\netstandard2.0\App6.pdb
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\bin\Debug\netstandard2.0\App6.deps.json
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\bin\Debug\netstandard2.0\App6.dll
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\bin\Debug\netstandard2.0\ref\App6.dll
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\bin\Debug\netstandard2.0\App6.pdb
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\App6.csproj.AssemblyReference.cache
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\App6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\Views\PaginaInicio.xaml.g.cs
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\Views\PaginaPerfil.xaml.g.cs
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfo.cs
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\App6.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\App6.dll
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\ref\App6.dll
+C:\Users\eduar\Documents\4to cuatri - ING\VS\App6-Login-y-navegacion\App6\App6\obj\Debug\netstandard2.0\App6.pdb
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\bin\Debug\netstandard2.0\App6.deps.json
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\bin\Debug\netstandard2.0\App6.dll
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\bin\Debug\netstandard2.0\ref\App6.dll
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\bin\Debug\netstandard2.0\App6.pdb
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\App6.csproj.AssemblyReference.cache
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\App6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\Views\PaginaInicio.xaml.g.cs
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\Views\PaginaPerfil.xaml.g.cs
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfoInputs.cache
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfo.cs
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\App6.csproj.CoreCompileInputs.cache
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\App6.dll
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\ref\App6.dll
+C:\Users\tonof\Downloads\App6-Login-y-navegacion-main\App6-Login-y-navegacion-main\App6\App6\obj\Debug\netstandard2.0\App6.pdb

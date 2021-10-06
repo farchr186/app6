@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App6.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#F48C4C" Padding="24" CornerRadius="0">
+            <Label Text="Proyecto App6: Login y navegación" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <StackLayout  Orientation="Vertical" Padding="30" Spacing="40">
+            <Frame BackgroundColor="#F48C4C" HasShadow="False">
+                <StackLayout Orientation="Vertical" Spacing="10">
+                    <Label Text="Correo o contraseña incorrectos" TextColor="#2EA5FF" IsVisible="{Binding Error}"/>
+                    <Entry x:Name="Email" Text="{Binding Email}" Placeholder="Email"   
+                            PlaceholderColor="White" HeightRequest="40"   
+                            Keyboard="Email"  
+                            TextColor="#190115"/>
+                    <Entry x:Name="Password" Text="{Binding Password}" Placeholder="Contraseña"   
+                            PlaceholderColor="White" HeightRequest="40"   
+                            IsPassword="True"  
+                            TextColor="#190115"/>
+                </StackLayout>
+            </Frame>
+            <Button Command="{Binding LoginCommand}" Text="Login" TextColor="White"  
+                    FontAttributes="Bold" FontSize="Large" HorizontalOptions="FillAndExpand"  
+                    BackgroundColor="#F48C4C" />
+
+            
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

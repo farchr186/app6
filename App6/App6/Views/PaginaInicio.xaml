@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App6.Views.PaginaInicio">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Bienvenido, esta es el apartado de Inicio"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+
+            <Button Text="Perfil" Command="{Binding GoToPerfilCommand}"/>
+            <Button Text="Cerrar sesión" Command="{Binding GoToRootCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

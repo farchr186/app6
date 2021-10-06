@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Egzk1aQyn54Kia3M2rECoXyjADc3Yf/xyR6mS5TC3gOfgrB8CKHo5BXyGbOEUE4/Jt6cv3gAyd6nCDnVm7+4Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tonof\\Downloads\\App6-Login-y-navegacion-main\\App6-Login-y-navegacion-main\\App6\\App6.iOS\\App6.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonof\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
